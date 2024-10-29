@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './SliderBox';","map":{"version":3,"names":[],"sources":["C:/Users/user/Desktop/projet perso/La Fons'Dal/LFD/LFD/node_modules/react-native-image-slider-box/dist/index.js"],"sourcesContent":["export * from './SliderBox'"],"mappings":"AAAA,cAAc,aAAa","ignoreList":[]},"metadata":{},"sourceType":"module","externalDependencies":[]}

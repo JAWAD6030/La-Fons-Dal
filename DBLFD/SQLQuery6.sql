@@ -1,0 +1,1 @@
+ALTER TABLE marchandises ADD marchandise_id INT PRIMARY KEY IDENTITY(1,1) NOT NULL

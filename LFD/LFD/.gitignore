@@ -1,0 +1,4 @@
+# Ignore node_modules and cache files
+node_modules/
+.cache/
+LFD/LFD/node_modules/.cache/web/web-development/1.pack
